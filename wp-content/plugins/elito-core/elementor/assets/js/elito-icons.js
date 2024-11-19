@@ -1,0 +1,21 @@
+{
+    "icons" : [
+        "shopping-cart",
+        "search",
+        "play",
+        "email",
+        "location",
+        "telephone",
+        "linkedin",
+        "twitter",
+        "facebook-app-symbol",
+        "instagram",
+        "quote",
+        "planning",
+        "blueprint",
+        "double-bed",
+        "armchair",
+        "furniture",
+        "interior-design"
+    ]
+}
